@@ -116,3 +116,24 @@ footer{
                 text-decoration: none;
                 line-height: 30px;
             }
+.buy{
+    height: 3vw;
+    width: 20vw;
+    margin: 0vw 1vw;
+    font-size: 27px;
+    border-radius: 5px;
+    background-color: rgba(244, 168, 82, 0.94);
+}
+.cart{
+    height: 3vw;
+    width: 20vw;
+    margin: 0vw 1vw;
+    font-size: 27px;
+    border-radius: 5px;
+    background-color: rgba(146, 144, 142, 0.94);
+}
+
+.shop{
+    margin: 2vw;
+
+}
